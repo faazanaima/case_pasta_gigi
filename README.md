@@ -7,3 +7,5 @@ and Classification Report models demonstrated good performance with an accuracy 
 91.3%. Based on the result, the model could serve as a robust foundation for developing a 
 GUI-based Toothpaste Brand Prediction Application using the tkinter library, assisting 
 users in making more informed decisions.
+
+https://publikasi.mercubuana.ac.id/index.php/collabits/article/view/25560/8004
